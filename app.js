@@ -5,7 +5,7 @@ const homePage = `
 <html>
     <head>
         <meta charset='utf-8'>
-        <title>六个周的个人网站</title>
+        <title>六个周</title>
         <style>
             *{
                 padding:0;
@@ -37,7 +37,7 @@ const homePage = `
     </head>
     <body>
         <h1>六个周的个人网站测试</h1>
-        <h2>2020-02-21</h2>
+        <h2>2020-02-21 23:40:00</h2>
         <nav>
             <ul>
                 <li>
