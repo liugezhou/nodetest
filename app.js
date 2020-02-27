@@ -44,6 +44,9 @@ const homePage = `
                     <a target="_blank" href="https://www.liugezhou.online">个人博客</a>
                 </li>
                 <li>
+                <a target="_blank" href="http://music.liugezhou.online">mobile-web-music</a>
+                </li>
+                <li>
                     <a target="_blank" href="https://juejin.im/user/5afcc0a66fb9a07aad17b79e">掘金主页</a>
                 </li>
                 <li>
@@ -53,7 +56,7 @@ const homePage = `
                     <a target="_blank" href="https://github.com/liugezhou">Github</a>
                 </li>
                 <li>
-                    <a target="_blank" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDc0OTMxNA==&scene=124#wechat_redirect">Dangerous Wakaka</a>
+                    <a target="_blank" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDc0OTMxNA==&scene=124#wechat_redirect">公号：Dangerous Wakaka</a>
                 </li>
             </ul>
         </nav>
