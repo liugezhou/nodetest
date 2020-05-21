@@ -55,10 +55,13 @@ const homePage = `
                 <li>
                     <a target="_blank" href="https://www.jianshu.com/u/5842abb77bd1">简书主页</a>
                 </li>
+                
                 <li>
                     <a target="_blank" href="https://liugezhou.gitbook.io/liugezhou/">浏览器工作原理与实践</a>
                 </li>
-                
+                <li>
+                    <a target="_blank" href="https://space.bilibili.com/527313141">BiliBili--渣个周</a>
+                </li>
                 <li>
                     <a target="_blank" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDc0OTMxNA==&scene=124#wechat_redirect">公众号：Dangerous Wakaka</a>
                 </li>
