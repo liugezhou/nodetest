@@ -15,7 +15,7 @@ const homePage = `
                 padding:30px 0;
                 text-align:center;
                 font-size:16px;
-                margin-top:15%;
+                margin-top:12%;
                 background-color:#ababab;
             }
             h1,
@@ -41,10 +41,13 @@ const homePage = `
         <nav>
             <ul>
                 <li>
+                    <a target="_blank" href="https://github.com/liugezhou">Github</a>
+                </li>
+                <li>
                     <a target="_blank" href="https://www.liugezhou.online">个人博客</a>
                 </li>
                 <li>
-                <a target="_blank" href="http://music.liugezhou.online">mobile-web-music</a>
+                <a target="_blank" href="http://music.liugezhou.online">vue-music</a>
                 </li>
                 <li>
                     <a target="_blank" href="https://juejin.im/user/5afcc0a66fb9a07aad17b79e">掘金主页</a>
@@ -53,16 +56,11 @@ const homePage = `
                     <a target="_blank" href="https://www.jianshu.com/u/5842abb77bd1">简书主页</a>
                 </li>
                 <li>
-                    <a target="_blank" href="https://liugezhou.gitbook.io/liugezhou/">浏览器工作远离与实践</a>
+                    <a target="_blank" href="https://liugezhou.gitbook.io/liugezhou/">浏览器工作原理与实践</a>
                 </li>
+                
                 <li>
-                    <a target="_blank" href="https://space.bilibili.com/527313141">BiliBili--渣个周</a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://github.com/liugezhou">Github</a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDc0OTMxNA==&scene=124#wechat_redirect">公号：Dangerous Wakaka</a>
+                    <a target="_blank" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDc0OTMxNA==&scene=124#wechat_redirect">公众号：Dangerous Wakaka</a>
                 </li>
             </ul>
         </nav>
