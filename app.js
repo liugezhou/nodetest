@@ -36,7 +36,7 @@ const homePage = `
         </style>
     </head>
     <body>
-        <h1>六个周的个人网站测试</h1>
+        <h1>六个周</h1>
         <h2>2020-02-22 01:38:00</h2>
         <nav>
             <ul>
@@ -51,6 +51,12 @@ const homePage = `
                 </li>
                 <li>
                     <a target="_blank" href="https://www.jianshu.com/u/5842abb77bd1">简书主页</a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://liugezhou.gitbook.io/liugezhou/">浏览器工作远离与实践</a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://space.bilibili.com/527313141">BiliBili--渣个周</a>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/liugezhou">Github</a>
